@@ -1,4 +1,7 @@
 ||youtube.com^
+||googlevideo.com^
+||ytimg.com^
+||youtu.be^
 ||spotify.com^
 ||instagram.com^
 ||twitch.tv^
