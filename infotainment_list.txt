@@ -1,4 +1,4 @@
-youtube.com
-spotify.com
-instagram.com
-twitch.tv
+||youtube.com^
+||spotify.com^
+||instagram.com^
+||twitch.tv^
