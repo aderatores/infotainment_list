@@ -2,3 +2,4 @@
 ||spotify.com^
 ||instagram.com^
 ||twitch.tv^
+||primevideo.com^
