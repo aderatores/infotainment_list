@@ -1,4 +1,4 @@
-www.youtube.com
-www.spotify.com
-www.instagram.com
-www.twitch.tv
+youtube.com
+spotify.com
+instagram.com
+twitch.tv
